@@ -21,7 +21,6 @@
                 <th>Nombre</th>
                 <th>Email</th>
                 <th>Creado</th>
-                <th>Actualizado</th>
             </tr>
         </thead>
         <tbody class="bg-white py-3 text-sm">
